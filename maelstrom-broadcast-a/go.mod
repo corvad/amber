@@ -1,4 +1,4 @@
-module maelstrom-unique-ids
+module maelstrom-broadcast-a
 
 go 1.25.3
 
